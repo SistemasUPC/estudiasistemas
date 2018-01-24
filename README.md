@@ -1,2 +1,25 @@
 # estudiasistemas
-Es un proyecto dedicado a quienes desean iniciar en la carrera de Ingeniería de Sistemas, para quienes ya están cursando sus primeros ciclos, e incluso, para quienes ya están avanzados o ya terminaron y quieren recordar algunos temas.
+Es un proyecto que busca abordar todos los cursos, temas y material de ayuda para la carrera de Ingeniería de Sistemas de Información
+
+Dedicado a:
+Quienes desean iniciar en la carrera de Ingeniería de Sistemas.
+Quienes ya están cursando sus primeros ciclos
+Quienes ya están avanzados o en último ciclos y quieren recordar algunos temas.
+
+[Instalación]
+-Requisitos
+-Versión
+-Encargados del Proyecto
+
+
+[Uso]
+
+
+
+[Documentación]
+
+
+[Roadmap]
+
+
+[Licencia]
